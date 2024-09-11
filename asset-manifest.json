@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/data_analytics_portfolio/static/css/main.109d0fed.css",
+    "main.js": "/data_analytics_portfolio/static/js/main.6bfabff2.js",
+    "static/js/415.4d6acbeb.chunk.js": "/data_analytics_portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/data_analytics_portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/lahar_detection.png": "/data_analytics_portfolio/static/media/lahar_detection.b05650bd656c0ebef9c3.png",
+    "static/media/student_checker.png": "/data_analytics_portfolio/static/media/student_checker.59b772c57eb733e2f466.png",
+    "static/media/credit_card.png": "/data_analytics_portfolio/static/media/credit_card.6f1e2864f5a048b6d8dc.png",
+    "static/media/avatar.png": "/data_analytics_portfolio/static/media/avatar.86f443203fb7221e00ee.png",
+    "static/media/plague.png": "/data_analytics_portfolio/static/media/plague.152b23c6060d4677bd8f.png",
+    "static/media/sql_sales.png": "/data_analytics_portfolio/static/media/sql_sales.65b9103ab737d7242486.png",
+    "static/media/fuel_emmission.png": "/data_analytics_portfolio/static/media/fuel_emmission.d8bf15861797b6b1c17a.png",
+    "static/media/Resume.pdf": "/data_analytics_portfolio/static/media/Resume.2ab59cb021e441427ead.pdf",
+    "static/media/home_icon.png": "/data_analytics_portfolio/static/media/home_icon.71fabd5ba22331e17963.png",
+    "static/media/home-bg.jpg": "/data_analytics_portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo_me.png": "/data_analytics_portfolio/static/media/logo_me.f0277e69abbede6cab0f.png",
+    "static/media/about_me.png": "/data_analytics_portfolio/static/media/about_me.ad1d7a2ff7db9368ad67.png",
+    "static/media/pre.svg": "/data_analytics_portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/data_analytics_portfolio/index.html",
+    "main.109d0fed.css.map": "/data_analytics_portfolio/static/css/main.109d0fed.css.map",
+    "main.6bfabff2.js.map": "/data_analytics_portfolio/static/js/main.6bfabff2.js.map",
+    "415.4d6acbeb.chunk.js.map": "/data_analytics_portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/data_analytics_portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.109d0fed.css",
+    "static/js/main.6bfabff2.js"
+  ]
+}
